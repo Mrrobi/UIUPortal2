@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\mrrob\.android\build-cache\45195745638670cbb536ba5329a8157803eaa2c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\mrrob\AndroidStudioProjects\UIUPortal2\app\build\intermediates\pre-dexed\debug\classes_e1dc55db9f0892688a11890ff5f8de9382e6cbd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mrrob\.android\build-cache\b9636f77775d81867dc3ba55061f5377a130ca43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\mrrob\AndroidStudioProjects\UIUPortal2\app\build\intermediates\pre-dexed\debug\classes_feb3f1434a561f9fc28ec1c2843568acd04fea28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mrrob\.android\build-cache\450001b2c89b0e15c9d9e1776599c41fc47faa51\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\mrrob\AndroidStudioProjects\UIUPortal2\app\build\intermediates\pre-dexed\debug\classes_74a9309e94720bfb7a5e96c5c084d347c42286a0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mrrob\AndroidStudioProjects\UIUPortal2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\mrrob\AndroidStudioProjects\UIUPortal2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_de195c50db491b984fb51f2e3af3c90112d77d7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mrrob\.android\build-cache\c09cf7bf6669f990610f93cc7be27cb19e6c2e70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\mrrob\AndroidStudioProjects\UIUPortal2\app\build\intermediates\pre-dexed\debug\classes_0443e6c059236dbc0aba6b278da26fa980e9994c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mrrob\.android\build-cache\3a2061e4fd763b03e593c4b2c043055831e6147c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\mrrob\AndroidStudioProjects\UIUPortal2\app\build\intermediates\pre-dexed\debug\classes_bee77994fbb8ca4a3e45ae60cea2edae1817e4ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mrrob\.android\build-cache\d171d356ebeb7fe86313c4d32437b39046afa3df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\mrrob\AndroidStudioProjects\UIUPortal2\app\build\intermediates\pre-dexed\debug\classes_313e85fba41d4af76e4ec90cf84cf74a8916184c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mrrob\.android\build-cache\05108bf0777f5cfa12f88a6781dcfc7f10088c51\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\mrrob\AndroidStudioProjects\UIUPortal2\app\build\intermediates\pre-dexed\debug\classes_f8da97bc43806210eece5dc7f21b627af4e693e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mrrob\AndroidStudioProjects\UIUPortal2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.2"
+        sha1="61ecd9409fe6d72789444b85708b23b118fbd65c">
+        <dex dex="C:\Users\mrrob\AndroidStudioProjects\UIUPortal2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5013ba4cdab93bd68928ab0817f391f48211f189\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mrrob\.android\build-cache\3790ca5120c4ab05aeabcba1da74fce049e9a0e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\mrrob\AndroidStudioProjects\UIUPortal2\app\build\intermediates\pre-dexed\debug\classes_01826d882e8fb724ed235e197df8df392360288a.jar" />
+    </item>
+
+</items>

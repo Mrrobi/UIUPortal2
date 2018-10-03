@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="io.github.mrrobi.uiuportal2.Settings">
+<AbsoluteLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lightgray"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentStart="true">
+
+    <ToggleButton
+        android:id="@+id/toggleButtoncse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="1dp"
+        android:layout_x="268dp"
+        android:layout_y="12dp"
+        android:hapticFeedbackEnabled="true"
+        android:text="ToggleButton"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="250dp"
+        tools:layout_editor_absoluteY="1dp" />
+
+    <ToggleButton
+    android:id="@+id/toggleButtonbba"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentTop="true"
+    android:layout_marginTop="1dp"
+    android:layout_x="268dp"
+    android:layout_y="72dp"
+    android:hapticFeedbackEnabled="true"
+    android:text="ToggleButton"
+    tools:ignore="MissingConstraints"
+    tools:layout_editor_absoluteX="250dp"
+    tools:layout_editor_absoluteY="1dp" />
+
+    <TextView
+        android:id="@+id/textViewcse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/toggleButton"
+        android:layout_marginEnd="77dp"
+        android:layout_toStartOf="@+id/toggleButton"
+        android:layout_x="5dp"
+        android:layout_y="19dp"
+        android:text="SOSE Notifications"
+        android:textColor="@color/testcolorblue"
+        android:textSize="30dp"
+        android:background="@color/cardview_light_background"/>
+
+    <TextView
+        android:id="@+id/textViewbba"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/toggleButton"
+        android:layout_marginEnd="77dp"
+        android:layout_toStartOf="@+id/toggleButton"
+        android:layout_x="4dp"
+        android:layout_y="78dp"
+        android:text="SOBE Notifications"
+        android:textColor="@color/testcolorblue"
+        android:textSize="30dp"
+        android:background="@color/cardview_light_background"/>
+
+</AbsoluteLayout>
+
+
+</RelativeLayout>
