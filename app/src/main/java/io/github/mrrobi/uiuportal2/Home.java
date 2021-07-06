@@ -241,7 +241,7 @@ public class Home extends AppCompatActivity implements NavigationView.OnNavigati
             startActivity(nw);
         }
         else if(id == R.id.nav_send){
-            Toast.makeText(getApplicationContext(),"This App Developed\n\tBy\nRobiuddin Robi,CSEUIU,171",Toast.LENGTH_LONG).show();
+            Toast.makeText(getApplicationContext(),"This App Developed\n\tBy\nRobiuddin Robi & Kazi Ferdous Mahin - CSEUIU,171",Toast.LENGTH_LONG).show();
         }
         else if(id == R.id.nav_share){
             try {
